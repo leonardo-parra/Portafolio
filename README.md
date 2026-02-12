@@ -1,8 +1,7 @@
 # Portafolio de ciberseguridad
 
-Hola pondré aquí los manuales que vaya creando sobre procedimientos de ciberseguridad.
+Los siguientes son los manuales sobre los procedimientos que he realizado.
 
 ---
 
-## 🔒 Ciberseguridad y Pentesting
-* **[Bypass de Restricciones en Módem Arris TG2482A](./proyectos/arris-bypass.md)**
+* **[Bypass para modificar opciones en módem Arris TG2482A y similares](./manuales/arris-bypass.md)**
