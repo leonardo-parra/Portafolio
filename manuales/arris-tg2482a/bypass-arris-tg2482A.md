@@ -6,3 +6,4 @@ En este caso es un módem de la empresa TIGO en Colombia. Al acceder a la config
 
 Para poder hacer las modificaciones necesitamos un navegador y estar conectados a la misma red del módem.
 
+![Login](images/image0.png)
