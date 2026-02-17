@@ -46,8 +46,8 @@ Los atributos disabled="disabled" y style="display: none;" debemos borrarlos. De
 
 Finalmente hacemos click en Apply para que se guarden los cambios.
 
+![Inspeccionando botón "Apply"](images/image8.png)
+
 Este procedimiento se puede aplicar a otras configuraciones que estén deshabilitadas.
 
 Se recomienda apagar y volver a encender el módem para asegurarse de que los cambios quedaron guardados.
-
-![Inspeccionando botón "Apply"](images/image8.png)
