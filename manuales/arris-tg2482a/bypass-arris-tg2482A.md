@@ -40,9 +40,9 @@ En el inspector, vamos a oprimir Ctrl + F. En la parte de arriba se mostrará la
 
 Vamos a poner .submitBtn y oprimimos Enter. Aparecerá el código del botón resaltado en azul.
 
-![Buscando "submitBtn"](images/image7.png)
-
 Los atributos disabled="disabled" y style="display: none;" debemos borrarlos. De esta forma se habilitará y mostrará el botón.
+
+![Buscando "submitBtn"](images/image7.png)
 
 Finalmente hacemos click en Apply para que se guarden los cambios.
 
@@ -50,4 +50,4 @@ Este procedimiento se puede aplicar a otras configuraciones que estén deshabili
 
 Se recomienda apagar y volver a encender el módem para asegurarse de que los cambios quedaron guardados.
 
-![Inspeccionando botón "Apply"](images/image7.png)
+![Inspeccionando botón "Apply"](images/image8.png)
